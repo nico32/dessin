@@ -1,5 +1,5 @@
 package hal.drawing.shapes;
-
+//toi
 /**
  * Un point en deux dimensions.
  * 
